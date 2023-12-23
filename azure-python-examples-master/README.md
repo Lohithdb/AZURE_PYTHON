@@ -47,6 +47,3 @@ This is the list of examples:
 * [azureeventhubsendevent](/azureeventhubsendevent) - Azure Event Hub send event: Example of how to handle an Event Hub and send events to an event hub event stream.
 * [azureeventhubreceiveevent](/azureeventhubreceiveevent) - Azure Event Hub receive event: Example of how to handle an Event Hub and  receive events from an event hub event stream.
 
-## License
-
-This code is released under the MIT License. See LICENSE file.
